@@ -1,4 +1,4 @@
--- Create the Expenses table
+-- Create the Expenses table test
 CREATE TABLE Expenses (
     id INT IDENTITY(1,1) PRIMARY KEY,
     category VARCHAR(50) NOT NULL,
